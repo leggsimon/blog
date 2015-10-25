@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dependancy Injection"
+title:  "Dependency Injection"
 date:   2015-10-25 17:57:05
 categories: ruby concepts ood
 ---
@@ -8,7 +8,7 @@ categories: ruby concepts ood
 
 ### Dependency Injection
 
-During my course we were taught a little bit about Dependency Injection and it's uses in Object Oriented Design. To be completely honest I didn't really understand it at first, I vaugly understood how you'd do it but not really why you'd do it.
+During my course we were taught a little bit about Dependency Injection and it's uses in Object Oriented Design. To be completely honest I didn't really understand it at first, I vaguely understood how you'd do it but not really why you'd do it.
 
 This week however I was helping my mentee Jamie. who is currently on his week 2 of Makers Academy and is doing a OOD kata based around [Oystercards](https://en.wikipedia.org/wiki/Oyster_card) (a card you can top-up to pay for travel in London). I was helping him with a few things but couldn't help but notice his `Journey` class;
 
