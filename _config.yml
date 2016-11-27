@@ -6,12 +6,12 @@ description: > # this means to ignore newlines until "baseurl:"
   or just generally things I, or you...hopefully you, will find interesting.
   If not, do be afraid to tell me...I'm fragile :)
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://simonlegg.com" # the base hostname & protocol for your site
 twitter_username: _simon__says
 github_username:  leggsimon
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 
 # kramdown:
 #   input: GFM
