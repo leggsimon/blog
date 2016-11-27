@@ -1,0 +1,20 @@
+$github-color: black;
+$twitter-colour: #1DA1F2;
+
+.social-media-list {
+  path {
+    transition: fill 0.5s;
+  }
+}
+
+.github-link:hover {
+  .icon path {
+    fill: $github-color;
+  }
+}
+
+.twitter-link:hover {
+  .icon path {
+    fill: $twitter-colour;
+  }
+}
